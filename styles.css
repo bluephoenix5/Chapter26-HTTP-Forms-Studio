@@ -1,4 +1,29 @@
-﻿body
-{
+﻿body {
+    background-color: gainsboro;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Comic Sans MS';
+    color: seagreen;
+}
 
+label {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-family: 'Comic Sans MS';
+}
+
+button
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+form {
+    outline-style: groove;
+    outline-color: forestgreen;
+    outline-width: medium;
+    max-width: 400px;
+    margin: auto;
+    font-weight: bold;
 }
